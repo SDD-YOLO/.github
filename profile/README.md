@@ -1,6 +1,6 @@
 🏭 SDD-YOLO
 
-Self-Developed Detection YOLO —— 面向工业表面缺陷检测与边缘部署的研究框架
+Self-Developed Detection YOLO —— 面向地对空反无人机检测的研究型框架
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
